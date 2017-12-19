@@ -1,0 +1,52 @@
+{
+  "history_themes_2": [
+    { "id":1,
+      "lat": "42.747868",
+      "lng": "59.267599",
+      "details": "On the banks of Amu darya river with aral sea on top, we can find Khwarizm, birth place of Al-Biruni",
+      "img": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Biruni-russian.jpg/220px-Biruni-russian.jpg"     
+      ],
+      "imgdesc": [
+        "Al-BIRUNI russian stamp"        
+      ],
+	  "hyperlinks":[
+	  "https://www.google.co.in/maps/place/Ghazni,+Afghanistan/@33.5484703,68.3856358,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x0:0x0!2zMzPCsDMzJzAwLjAiTiA2OMKwMjUnMDAuMCJF!3b1!8m2!3d33.55!4d68.4166667!3m4!1s0x38d443e10b532347:0x364d5d3ca326a1a2!8m2!3d33.545061!4d68.4173959"
+	  ],
+	  "hyperdesc":[
+	  "Ghazni mordern day location"
+	  ]
+    },
+    { "id":2,
+      "lat": "30.196197",
+      "lng": "71.474281",
+      "details": "On the banks of chenab river in present day pakistan, we can find Multan. ",
+      "img": [        
+      ],
+      "imgdesc": [        
+      ],
+	  "hyperlinks":[
+	  "https://www.google.co.in/maps/place/Multan,+Pakistan/@30.1861766,71.3370056,11z/data=!3m1!4b1!4m5!3m4!1s0x393b315778dea7d9:0xbad72fc74e55d42f!8m2!3d30.1983807!4d71.4687028"
+	  ],
+	  "hyperdesc":[
+	  "Multan mordern day location"
+	  ]
+    },
+	{ "id":3,
+      "lat": "29.230129",
+      "lng": "71.066482",
+      "details": "On the banks of chenab river in present day pakistan, we can find Uch. ",
+      "img": [        
+      ],
+      "imgdesc": [        
+      ],
+	  "hyperlinks":[
+	  "https://www.google.com/maps/place/Uch+Sharif,+Pakistan/@29.2339744,71.0445004,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x0:0x0!2zMjnCsDE0JzAwLjAiTiA3McKwMDQnMDAuMCJF!3b1!8m2!3d29.233333!4d71.066667!3m4!1s0x393a4932202c9621:0x9c9b8d9c1aad6ab6!8m2!3d29.2390716!4d71.0646343?hl=en"
+	  ],
+	  "hyperdesc":[
+	  "Uch mordern day location"
+	  ]
+    } 
+  ]
+}
+ 
