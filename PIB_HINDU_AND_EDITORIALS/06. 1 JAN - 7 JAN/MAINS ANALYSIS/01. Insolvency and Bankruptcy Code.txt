@@ -1,0 +1,162 @@
+ Background
+ ===========
+ [Excerpts from Economic Survey 2015-16] 
+ Detailed overview: https://academy.gktoday.in/article/chakravyuha-challenge-of-the-indian-economy/
+ 
+ The Chakravyuha Challenge: Ease to enter, barriers to exit :
+ -------------------------------------- -------------------------------------
+ 1. The Indian economy has made great strides in removing barriers to entry for firms, talent, and technology but less progress has been made in relation to exit
+ 2. Thus, over the course of six decades, the Indian economy has moved from ‘"socialism" with limited entry to “marketism” without exit’.
+ 3. India seems to have a disproportionately large share of inefficient firms with very low productivity and with little exit
+ 4. This lack of exit generates externalities that hurt the economy.
+ 
+ Impeded exit has substantial fiscal, economic, and political costs :
+ -------------------------------------- -------------------------------------
+ i) Fiscal Costs: Inefficient firms often require government support in the form of explicit subsidies (for example bailouts) or implicit subsidies (tariffs, loans from state banks).
+ ii) Economic Costs: Misallocation of scarce resources and factors of production in unproductive uses including overhang of stressed assets on corporate and bank balance sheets
+ iii) Political costs: Government support to “sick” firms can give the impression that government favors large corporates, which politically limits its ability to undertake measures that will benefit the economy but might be seen as further benefitting businesses
+ 
+ The Economic Survey analyses this exit problem with the help of the three I’s:
+ ------------------------------------- -------------------------------------
+ I) Institutions: 
+ ---------------
+ - Weak institutions increase the time and financial costs of exit. 
+ - For example, with rising non-performing assets, recourse to debt recovery tribunals (DRTs) has increased. The share of settled cases is becoming small and declining and the accumulated backlog of unsettled cases has increased manifold. 
+ - Furthermore, inability to punish wilful defaulters questions the legitimacy of all institutions.
+ - On the other hand, strong but inflexible institutions are unable to make risky decisions when departures from strict principles may be necessary for the economy.
+ 
+ Ideas/Ideology: 
+ ----------------
+ The founding ideology of state-led development and socialism makes it difficult to phase out entitlements even as those intended for the poor end up accruing to the relatively better off.
+ 
+ Interests:
+ ----------
+ - The power of vested interests confers greater power on concentrated producer interests in relation to diffused consumer interests.
+ - As a result it becomes difficult to phase out schemes and they become instruments of granting favors.
+ - Thus, extra vigilance is required to ensure that schemes remain relevant and useful over time.
+ 
+ The Economic Survey 2015-16 suggests five possible ways to address this problem 
+ ---------------------------------------------------------------------------------
+	1. The first is promoting competition via private sector entry rather than change of ownership from public to private
+	2. Secondly, direct policy action through better laws like the Insolvency and Bankruptcy Code 2015 will expedite exit [Mains analysis]
+	3. Also institutions need to be made stronger but flexible by empowering bureaucrats and reducing their vulnerability
+	4. Thirdly, increase the use of technology to remove persistent distortions by bringing down human discretion and layers of intermediaries
+	5. The fourth is increasing transparency and highlighting social costs and benefits of various schemes and entitlements
+	6. Finally, showcasing exit as an opportunity towards a newer and better tomorrow.
+	
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+The Insolvency and Bankruptcy Code
+----------------------------------
+1.0 Objective
+-------------
+An act to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner.
+
+1.1 INTRO
+---------
+ Under the proposed law, a bankrupt entity is a debtor [ Individuals, Partnerships, LLBs & corporates ] who has been adjudged as bankrupt by an adjudicating authority that has passed a bankruptcy order.
+ The Code seeks to achieve certainty for recovery and enforcement proceedings and to this extent it will specifically be a useful tool for creditors and investors
+
+2.0 Highlights of the Code
+--------------------------
+ The Code creates time-bound processes for insolvency resolution of companies and individuals. [ within 180 (extended to 270) days ]
+ The resolution processes will be conducted by licensed insolvency professionals (IPs).
+ Information utilities (IUs) will be established to collect, collate and disseminate financial information to facilitate insolvency resolution
+ The National Company Law Tribunal (NCLT) will adjudicate insolvency resolution for companies & The Debt Recovery Tribunal (DRT) will adjudicate insolvency resolution for individuals
+ The Insolvency and Bankruptcy Board of India will be set up to regulate functioning of IPs, IPAs and IUs. 
+ Given that many corporate transactions and businesses involve an international element, the Code attempts to address this by including provisions for cross border insolvency
+
+3.0 Need for bankruptcy law 
+---------------------------- 
+
+ Freeing up the money that has been stuck as NPAs [stressed assets rose to 14.5% of banking sector loans] is crucial for the banking sector to go about its business.
+ Multiplicity of laws has been a problem in the way of banks failing to recover their loans 
+ Many concerns have been existing and / or raised amongst international investors on the regulatory and country risks while providing financing to and/or investing in India
+
+Note: 
+- The Asset Quality Review conducted by RBI to check the ground realities in the banking sector actually reaveled the true estimate of NPAs. 
+- This review showed that the banking institutions were engaged in "ever greening" of loans to prevent an asset from being classified as Non-Performing [Probably to keep their balance sheet healthy]
+
+4.0 Four pillars of institutional infrastructure.
+------------------------------------------------- 
+i) Insolvency Professionals 
+They would play a key role in the efficient working of the bankruptcy process and being regulated by "Insolvency Professional Agencies"
+
+ii) Information Utilities
+These would store facts about lenders and terms of lending in electronic databases [ would eliminate delays and disputes about facts]
+
+iii) Adjudication
+The NCLT will be the forum where firm insolvency will be heard and DRTs will be the forum where individual insolvencies will be heard
+
+iv) Regulator
+Regulator viz., "The Insolvency and Bankruptcy Board of India‟. This body will have regulatory over-sight over the Insolvency Professional, Insolvency
+Professional agencies and information utilities
+
+5.0 Impact of the Bankruptcy Act
+--------------------------------
+ With Bankruptcy & Insolvency Code, the Indian lending system has gotten teeth in dealing with stressed borrowers and a difficult macroeconomic situation
+ Impact of the bankruptcy code will be widely positive, leading to a better management of stressed companies in India [ important for investments, whether Indian or foreign capital ]
+ There will be better financial discipline among companies, which will work to ensure that all their creditors are paid on time.
+ The powers have once again come into the hands of lenders as they are far above equity holders in the payout structure that the code mandates in a liquidation situation
+
+ Banks :
+1. Creation of Information utilities detailing about the lenders, defaulters would provide proactive information to the banks
+2. Timely recovery of loans and Relief in NPAs issue 
+3. Appointment of Insolvency Resolution professionals (IRP) who are specialized in handling sick companies would be in place
+
+ Government :
+1. Promote Ease of doing business and thereby more investment to the country 
+2. Resolution of issues such as NPAs and wilful defaulters
+3. Free up ďaŶk’s produĐtiǀe resourĐes aŶd iŶĐrease the credit availability in the economy which could be used for welfare purposes
+
+ Business :
+1. A quick route to exit and no unnecessary litigation 
+2. Solving bankruptcy and insolvency cases in a quick manner will create a positive effect in the eyes of foreign investors.
+3. Critique: 
+  3.1. Inclusion of the names of debtors in the information repository would hamper their future prospects of acquiring loans
+  3.2. High number of exits would render many of the workers in that firm unemployed 
+
+ Impact on real estate :
+1. According to a report in 2015, the (NPAs) in real estate sectors were worth Rs 6,000 crore
+2. There are several developers who have for various reasons delayed repayments of loan
+3. There is a possibility that an insolvency and bankruptcy petition will be filed against them by the creditors
+4. The asset/property will be passed into the hands of an insolvency expert. For the creditors, it will be a boon. 
+5. If the insolvency expert is not competent enough to deliver the project as per the standard, the buyer may be affected.
+6. This is also expected to facilitate efficient flow of capital in the real estate industry. 
+7. The act will help real estate companies access the corporate bond market which will allow them to see the opportunity from fresh credit lines
+8. Creditors will be able recover a larger part of their investment faster which will eventually allow them to re-invest in other projects
+
+6.0 Conclusion
+---------------
+1. It would take India from among relatively weak insolvency regimes to becoming one of the world's best insolvency regimes.
+2. The strict timelines for resolution of insolvency and liquidation proceedings would definitely be an incentive and provide the requisite impetus for economic growth
+3. when implemented in letter and spirit, provide a major boost to the India economy, especially on account of timely resolution and certainty in recovery
+
+
+CHECK IBBI GIST & IBBI MIND MAPS FOR DETAILS.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+REFERENCES
+----------
+1. http://pib.nic.in/newsite/printrelease.aspx?relid=136862
+2. http://www.insightsonindia.com/wp-content/uploads/2016/11/The-Insolvency-and-Bankruptcy-Code.pdf
+3. 
+ 
+ 
+ 
+ 
+TBC:
+http://www.insightsonindia.com/2015/03/04/7-critically-examine-the-importance-of-findings-and-recommendations-of-the-interim-report-of-the-bankruptcy-law-reform-committee-for-indian-economy/
+http://www.finmin.nic.in/sites/default/files/Interim_Report_BLRC_0.pdf
+http://www.insightsonindia.com/2017/12/17/insights-editorial-changed-priorities/
+http://www.insightsonindia.com/2017/06/28/4-features-insolvency-bankruptcy-code-2016-ibc-examine-factors-success-bankruptcy-law-likely-depend/
+http://www.thehindu.com/todays-paper/tp-opinion/pieces-of-a-complex-solution/article19157687.ece
+http://www.insightsonindia.com/2017/08/12/7-insolvency-bankruptcy-code-2016-enacted-discuss-merits-demerits-law-pointed-various-critics/
+http://www.thehindu.com/todays-paper/tp-opinion/no-level-playing-field/article19477486.ece
+http://www.insightsonindia.com/2017/09/18/4-reference-insolvency-bankruptcy-code-analyse-causes-leading-wilful-defaulting-payments-banks-india-also-highlight-multi-layered-measures-can-undertaken/
+http://www.insightsonindia.com/2016/11/09/insights-mindmaps-minorities-india-insolvency-bankruptcy-code/the-insolvency-and-bankruptcy-code/
+http://www.insightsonindia.com/2017/07/26/insights-editorial-greater-market-role-bankruptcy-process/
+http://www.insightsonindia.com/2017/01/27/5-bankruptcy-insolvency-code-received-parliaments-nod-may-2016-wide-ambit-jurisdiction-including-individuals-companies-limited-liability-partnerships/
+http://www.livemint.com/Politics/8mI3fXQKoTH6uPmH6cR5cM/Can-new-insolvency-code-overcome-huge-backlog-poor-infrastr.html
+http://www.insightsonindia.com/2016/01/15/6-said-reforms-bankruptcy-laws-can-play-crucial-role-economic-growth-financial-stability-light-increasing-non-performing-assets-npas-banks-discuss-statemen/
+http://www.livemint.com/Money/27jZJSt1N5qYoVRP4xjrxL/Bankruptcy-law-key-to-tackling-the-burgeoning-NPA-issue.html

@@ -1,0 +1,488 @@
+PIB ADV SEARCH : FROM 10 Dec - 17 Dec
+
+/*******************************************************************************************/
+FACTS TO BE SEEN:
+====================
+1. International North South Transport Corridor
+------------------------------------------------
+1. The INSTC is a multi-modal route (ship, road and rail) from Mumbai to the Iranian port of Bander Abbas then via Tehran to Baku (Azerbaijan) and further to Astrakhan, Moscow and St Petersburg in Russia. 
+2. Alternatively, there is also a road route from Iran to former Soviet Union countries such as Azerbaijan.
+3. INSTC Members : Iran, India, Russia, Armenia, Azerbaijan, Belarus, Kyrgyztan, Kazakhstan, Ukraine, Turkey, Tajikistan, Oman, Syria and Bulgaria (observer status).
+-------------------------------------------------------------------------------------
+
+2. Universal Health Coverage
+----------------------------
+- Part of SDGs
+- Everybody will be entitled for comprehensive health security in the country
+- It will be obligatory on the part of the State to provide adequate food, appropriate medical care, safe drinking water, proper sanitation, education and health-related information for good health
+- the delivery of UHC also requires the availability of adequate healthcare infrastructure, skilled health workforce and access to affordable drugs and technologies to ensure the entitled level and quality of care given to every citizen
+- Keeping this in view, Indian government has designed its National Health Policy 2017, Mission Indradhanush, Pradhan Mantri Dialysis Program, etc.
+
+
+3. Asian Infrastructure Investment Bank 
+----------------------------------------
+- AIIB is a multilateral development bank with a mission to improve social and economic outcomes in Asia and beyond
+- Headquartered in Beijing, China, AIIB commenced operations in January 2016
+
+4. Indian Technical and Economic Cooperation (ITEC)
+---------------------------------------------------
+- A bilateral programme of assistance of the Government of India, It is a demand-driven, response-oriented programme that focuses on addressing the needs of developing countries
+- ITEC is an important part of India's attempt to contributing to South-South cooperation (developing countries in global south)
+- Assistance under ITEC covers the six areas of training for civil and defence personnel, projects and project related activities such as consultancy services, study tours, donation of equipment, deputation of Indian experts in the partner nation and aid for disaster relief
+- ITEC is administered by the Ministry of External Affairs of the Government of India and all expenses are taken up by the Indian Authorities.
+- It is a instrument to project India's soft power in the immediate neighbourhood, Africa, Eastern Europe and among several Pacific and Caribbean island nations.
+
+
+5. Quick Estimates of Index of Industrial Production
+----------------------------------------------------
+- Base 2011-12=100
+- Issued by Central Statistics Office of the Ministry of Statistics and Programme Implementation
+- SECTOR BASED CLASSIFICATION :
+	Mining     Manufacturing  Electricity  General
+   (14.3725)   (77.6332)      (7.9943)     (100)
+- Eight Core Industries [ released by Ministry of Commerce & Industry  ]
+	Refinery Products(28);
+	Electricity (19.8530);
+	Steel (17.9166);
+	Coal (10.3); 
+	Crude Oil (8.9); 
+	Natural Gas(6.8);  
+	Cement (5.3720);  
+	Fertilizers (2.6276);  
+ 
+6. Consumer Price Index Numbers on Base 2012=100 For Rural, Urban and Combined
+------------------------------------------------------------------------------
+- Who issues? The Central Statistics Office (CSO), Ministry of Statistics and Programme Implementation
+- Base 2012=100
+- Types ? Rural, Urban, Combd.
+
+7.  INS Kalvari ( Scorpène-class )
+---------------
+- A diesel-electric attack submarine
+- Built by Mazagon Dock Shipbuilders Limited
+-  It is the first of six such submarines that will be inducted into the Indian Navy, and represents a significant success for the "Make in India" initiative
+-  Built in partnership with france.
+
+OTHERS:
+- INS Chakra an Akula-class nuclear-powered attack submarine 
+- India built its first nuclear submarine INS Arihant under the Advanced Technology Vessel project
+
+8. Index Numbers of Wholesale Price in India (Base: 2011-12=100) 
+-----------------------------------------------------------------
+- Released by ? Ministry of Commerce & Industry
+- Weightage:
+   PRIMARY ARTICLES - 22.62
+   Food Articles - 15.26
+   MANUFACTURED PRODUCTS - 64.23
+
+/*******************************************************************************************/
+NEWS:
+======
+1.
+N: IT Minister launches first NIC CERT to prevent & predict cyber attacks on government utilities 
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1512186
+CATEGORY: HIGH
+
+- As the world is moving towards digital and Indian govt. is also pushing for Digital initiatives, the threat that comes from cyber attack is increasing manifold.
+- To counter this threat, the govt did the following :
+   i)  Drafting the Data protection Act.
+   ii) NIC-CERT
+
+- NIC-CERT has been setup with the objective of creating a comprehensive framework that integrates world class security components and inbuilt threat intelligence for detection, prevention and incident response. Using the tools the team will correlate events that would help in generating a canvas of the attack surface and identify the vulnerabilities and possible exploits. The gathered intelligence assimilated with the knowledge of the open web would give the CERT the ability prevent and predict attacks.
+
+
+----------------------------------------------------------------------------------------
+2. 
+N: 5th Pre-Budget Consultation Meeting
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1512192
+CATEGORY: FACTS-PRELIMS / MAINS-ANALYSIS
+
+i) Steps taken by govt. towards fiscal consolidation ?
+-expenditure rationalisation, 
+-plugging of loopholes in public expenditure through Direct Benefit Transfer Scheme (DBT) 
+-the Public Financial Management System (PFMS), and  
+-by making innovative revenue raising efforts among others
+-disinvestment of Public Sector Units (Strategic)
+
+----------------------------------------------------------------------------------------
+3. 
+N: Increasing the efficiency of the parliament
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1512211
+CATEGORY: MAINS-ANALYSIS
+Also refer : BigPicture debade on : Importance of Legislatures.
+
+1. Inefficient working of legislatures, erodes the confidence in parliamentary democracy at the grass root level.
+2. Agencies that aid in the effective functioning of Parliament : Department Related Parliamentary Standing Committees and other Committees (Suggestion is to make it more representative - from all sections of political parties and should make its recommendations binding on the govt - currently advisory role only, it need not appear in the draft bill)
+3. These Committees have the power to summon senior officers of the Government and others concerned for obtaining evidence and information on related matters and work almost 24x7 all round the year.
+4.The Rules of Business of the House must be strengthened, to avoid frequent disruptions.
+
+10 Points made by VP for effective functioning of the house:
+-------------------------------------------------------------
+i) Measuring the productivity of the Legislature:
+- scientific measurement of the effectiveness and productivity of legislature based on the number of sittings, bills passed, bills held up, members’ participation, duration of debate on each bill, quality of debates and range of issues of public interest debated, extent of disruptions, reports of Committees submitted.
+
+ii) Ranking of Legislatures of the country
+- All the legislatures of the country can also be similarly ranked and making these rankings public would bring public pressure on the respective legislatures, governments and even the political concerned.
+
+iii) Quorum for Opposition Members
+Quorum should be made binding on all the political parties (ruling, opposition, etc )
+
+iv) Notifying disruptions
+legislatures may display the names of such members in public domain with an observation that they have violated the rules in disregard of the directions of the Chair and there by adversely impacting the functioning of the House.
+
+v) Automatic suspension of members
+a specific provision in the Rules of Business for automatic suspension of members who rushes to the well of the House
+
+vi) Ensuring inclusive and enlightened legislatures
+fair representation of women in legislature besides   reforms and  education to ensure inclusive and enlightened legislatures
+
+----------------------------------------------------------------------------------------
+4.
+N: Navika Sagar Parikrama - Update.
+U: http://pib.gov.in/PressReleseDetail.aspx?PRID=1512217
+CATEGORY: FACTS-PRELIMS
+
+- India’s first ever circumnavigation expedition of globe by all-women crew
+- Navika Sagar Parikrama voyage is in consonance with National policy to empower women to attain their full potential
+- It also encourage use of environment friendly non-conventional renewable energy resources as ship harnesses wind, a renewable energy.  
+- The crew will also monitor and report marine pollution on the high seas
+- Vessel Used is Indian Naval Sailing Vessel (INSV) Tarini
+
+----------------------------------------------------------------------------------------
+5. 
+N: Statement by India at the World Trade Organisation Ministerial Conference at Buenos Aires 
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1512425
+CATEGORY: MAINS-ANALYSIS
+
+1. India has been actively participating in WTO and has been advocating the idea of public stockholding for food security purposes, agricultural Special Safeguard Mechanism, agricultural domestic support and E-commerce.
+2. India and her coalition partners have remained steadfast in their support not only for a permanent solution on public stockholding but also on other issues of interest to developing countries
+3. India had support over 100 members for a proposal to set the direction of agriculture reforms by first eliminating the most trade-distorting form of subsidies used mainly by the rich developed countries
+4. Opposition from certain member countries by not supporting any permanent solution on the public stockholding issue at MC11 has the potential to irreversibly damage the credibility of the WTO as a Ministerial Decision of all countries present in Nairobi has not been honoured, thereby not addressing hunger issues in some of the poorest countries of the world
+5. India is firm that any Ministerial Declaration must reaffirm the principles of the multilateral trading system, the completion of the Doha Development Agenda, the centrality of development and the availability of special and differential treatment and other concerns of developing countries
+
+----------------------------------------------------------------------------------------
+6. 
+N: National Energy Conservation Day to be celebrated on 14th December, 2017 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174260
+   http://pib.nic.in/newsite/PrintRelease.aspx?relid=174314
+CATEGORY: FACTS-PRELIMS
+
+1. Bureau of Energy Efficiency (BEE), under Ministry of Power, celebrates the National Energy Conservation Day
+2. On the occasion, Hon’ble President also unveiled the interactive online portal, ECO-NIWAS (Energy COnservation – New Indian Way for Affordable & Sustainable homes) for increasing awareness to build sustainable and energy efficient homes in the country
+3. Hon’ble President said that the country is on the track to surpass its RE target of 175 GW by 2020.
+------------------------------------------------------------------------------------------
+7.
+N: Approach to control Air Pollution in NCR.
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174280
+CATEGORY: FACTS-PRELIMS
+
+1. Strict measures to be taken for controlling dust pollution (from major construction sites will be monitored closely) 
+2. Fire from municipal solid waste dump sites will be tackled in an urgent manner. (Innovative approaches using latest tech to be adopted)
+3. An action plan to address the issue of stubble burning.
+4. It was decided that the decision regarding ban on petcoke and furnace oil will be strictly enforced in all the NCR states
+http://www.livemint.com/Politics/HJsuz6HXN51ryEbdgRmq8L/Supreme-Court-upholds-ban-on-petcoke-furnace-oil-in-Delhi.html
+5. Delhi Police will be requested to tackle the issue of traffic congestion and parking in Delhi
+6. All steps will be taken to increase availability of public transport in the medium term
+7. Close interaction to be maintained with Science and Technology institutions to use innovative technologies available to tackle air pollution
+------------------------------------------------------------------------------------------
+8. 
+N: Project Udayak of the Border Roads Organisation (BRO)  - Update
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174283
+CATEGORY: FACTS-PRELIMS
+
+Two crucial bridges in Eastern Arunachal Pradesh sector have been opened up  under Project Udayak
+1. Injupani Bridge on Roing-Koronu-Paya road
+2. Deopani/Eze Bridge, over the Eze river at Roing in Arunachal Pradesh
+
+------------------------------------------------------------------------------------------
+9. 
+N:  India-Myanmar-Thailand Motor Rally - Update
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174272
+CATEGORY :FACTS-PRELIMS
+
+- From where did it start ? From  Guwahati to Bangkok
+- The objective of the rally is to improve connectivity by road in the South-East Asian region
+- This rally will give a boost to the PM Narendra Modi’s ‘ Act East Policy’
+- The rally caravan will cover a distance of 5,722 KMs along the IMT Trilateral Highway
+------------------------------------------------------------------------------------------
+10.
+N: Ministers attend function to mark 25 years of India-ASEAN Partnership
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174304
+CATEGORY: FACTS-PRELIMS / MAINS-ANALYSIS ( 50 years of ASEAN and 25 years of India-ASEAN Partnership  )
+------------------------------------------------------------------------------------------
+11. 
+N: India Signs Loan Agreement with World Bank ( IBRD loan ) for US$ 250 Million for “Skills Acquisition and Knowledge Awareness for Livelihood Promotion” (SANKALP) Project 
+
+What is SANKALP Project ?
+
+
+------------------------------------------------------------------------------------------
+12. 
+N: NITI Aayog launches ATL Community Day
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174310
+   http://pib.nic.in/newsite/PrintRelease.aspx?relid=174390
+CATEGORY : FACTS-PRELIMS
+
+What is Atal Innovation Mission ?
+Who is the nodal agency ?
+What are their objectives and initiatives ?
+
+------------------------------------------------------------------------------------------
+13.
+N: Two Day National Workshop on Role of Sakhi One Stop Centres in Strengthening Multi Sectoral Response to Violence
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174321
+   http://pib.nic.in/newsite/PrintRelease.aspx?relid=174337
+CATEGORY : FACTS-PRELIMS
+
+Sakhi One Stop Centres ?
+- For strengthening the multisector response to address violence against women
+- The scheme aims to facilitate access to an integrated range of services including medical aid, police assistance, legal aid/case management, psychosocial counselling, and temporary support services to women affected by violence
+- Initiative by Ministry of Women and Child Development
+
+------------------------------------------------------------------------------------------
+14. 
+N: Hydroelectric Power Project in Mizoram + ‘MyDoNER App’
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174336
+CATEGORY : FACTS-PRELIMS
+
+60 MW Tuirial Hydro Electric Power Project :
+-  a Central Sector Project and implemented by North Eastern Electric Power Corporation (NEEPCO) [Under the administrative control of Ministry of Power]
+- The Project is the biggest power project located in the State of Mizoram and will feed the entire energy to be generated to the home State thereby making India realize its ambitious and flagship Mission ‘24x7 Affordable Clean Power for All’
+- the project will fetch other spin-off benefits to the State of Mizoram like employment generation, navigation, water supply, pisciculture and wild life conservation, tourism etc
+ 
+------------------------------------------------------------------------------------------
+15. 
+N: Society for Nuclear Medicine International Conference (SNMICON) 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174334
+CATEGORY : FACTS-PRELIMS
+
+49th Annual Conference of the Society of Nuclear Medicine
+- advances in medical science have led to significant improvements in our quality of life
+- a dedicated research laboratory of DRDO Life Cluster, Institute of Nuclear Medicine and Allied Sciences (INMAS) is making considerable contribution in the research of nuclear medicine, thereby exemplifying the peaceful use of nuclear energy
+- INMAS has always taken a lead with academic developments in the areas of radiation and imaging sciences.
+
+------------------------------------------------------------------------------------------
+16. 
+N: VP inaugurates World Conference on Vedas
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174340
+CATEGORY : LOW - NO MAJOR NEWS
+
+The event happened @ Delhi.
+------------------------------------------------------------------------------------------
+17. 
+N: FinMin's 7th Pre-Budget Consultation with representatives of the Banks and Financial Institutions
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174395
+CATEGORY : FACTS-PRELIMS
+
+1. Central Government has decided to take a massive step to recapitalize the Public Sector Banks (PSBs) in a front-loaded manner, in order to strengthen the banks, which are the key pillars of the economy.
+2. Government has decided to infuse capital worth Rs.2.11 lakh crore in PSBs (in next two years) through budgetary provisions of Rs.18,139 crore, and Rs. 1,35,000 crore through Re-capitalisation Bonds
+
+------------------------------------------------------------------------------------------
+18. 
+N: Rabi Crops sowing
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174380
+CATEGORY : FACTS-PRELIMS
+
+- Wheat, Rice, pulses,coarse cereals and oilseeds.
+
+------------------------------------------------------------------------------------------
+19. 
+N: Government has fixed Ceiling Prices of 849 medicines, including 2 coronary stents, till November 2017: Shri Mansukh L. Mandaviya
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174344
+CATEGORY : FACTS-PRELIMS
+
+Who fixes the price of medicines in India ?
+-> National Pharmaceuticals Pricing Authority (NPPA) fixes the ceiling prices of medicines listed in the of Drugs (Prices Control) Order, 2013 (DPCO 2013) [Ministry of Chemicals and Fertilizers]
+
+------------------------------------------------------------------------------------------
+20. 
+N: CABINET ORDERS
+CATEGORY : FACTS-PRELIMS / MAINS-ANALYSIS
+ 
+
+1. Dr Jitendra Singh hails Cabinet decision of 100% Central funding of Northeast projects
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174386 [MEDIUM]
+
+- Union Cabinet today approved 100% Central funding of Northeast projects through Ministry of Development of North Eastern Region (DoNER) [departure from the earlier practice of 90:10 funding to counter lack of funds issue raised by those concerned state govt.]
+- This will put an end to undue delay in the execution of various development projects in the region and will be a major booster for the eight States of the North-Eastern region
+- The new scheme under the name "North-East Special Infrastructure Development Scheme" (NESIDS), according to Dr Jitendra Singh, is being introduced from the year 2017-18, thus restructuring the existing DoNER Scheme of "Non-Lapsable Central Pool of Resources" (NLCPR)
+
+2. special package for employment generation in leather and footwear sector [LOW]
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174375
+
+3. Agreement with UNESCO on establishment of International Training Centre for Operational Oceanography in Hyderabad 
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174372
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174404
+- The operational oceanography is an activity of conducting systematic oceanographic studies towards providing information services to various sectors viz. fisherman, disaster management, shipping, ports, coastal states, navy, coast guard, environment, offshore industries for conducting their day-to- day operations
+- The Centre could contribute to achieving Sustainable Development Goal-14 (SDG 14 - Conserve and sustainably use the oceans, seas and marine resources for sustainable development) related to building marine scientific research capacity in geographical area which will also fulfill the commitments to support Small Island Developing States, Least Developed Countries
+
+4. Centrally Sponsored Scheme of National Ayush Mission (NAM) from 01.04.2017 to 31.03.2020
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174371
+
+5. creation of one circle office of Commissioner of Metro Railway Safety for carrying out the functions of Commission of Metro Railway Safety
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174365
+
+Background
+----------
+- The Commission of Railway Safety working under the administrative control of the Ministry of Civil Aviation (Govt. of India), deals with the matters pertaining to safety of rail travel
+- These functions are inspectorial, investigatory and advisory in nature
+- The most important duty of the Commission is to ensure that any new railway line to be opened for passenger traffic should conform to the standard and specifications prescribed by the Ministry of Railways
+- The Commission also conducts statutory inquiries into serious train accidents and makes recommendations for improving safety on the railways in India
+
+News ?
+------
+1. Cabinet approved the creation of circle office of Commissioner of Metro Railway Safety [CMRS]
+2. To implement the provisions envisaged under "Metro Railways (Operations and Maintenance) Act, 2002" [for carrying out the functions of Commission of Metro Railway Safety]
+3. Creation of these posts will ensure focused attention on the passenger safety and metro rail operation related issues, in respect of existing, as well as upcoming various metro rail projects
+4. NOTE: The CMRS will be administratively under the control of Chief Commissioner of Railway Safety under Ministry of Civil Aviation. 
+
+Implementation strategy and targets:
+------------------------------------
+1. The post of Commissioner of Metro Railway Safety shall be filled from the cadre of Indian Railway Engineering Services by the Ministry of Civil Aviation through nomination [in consultation with UPSC]
+
+Why is this important ?
+-----------------------
+http://indianexpress.com/article/delhi/delhi-metro-accident-under-trial-run-magenta-line-metro-rams-into-wall-at-kalindi-kunj-4989936/
+
+
+6. http://pib.nic.in/newsite/PrintRelease.aspx?relid=174363
+Questions: 
+What is Non-Cumulative Redeemable Preference Shares (RPS) and Compulsorily Convertible Non-Cumulative Preference Shares (CCPS) ?
+
+7. approves capital investment subsidy to industrial units located in North Eastern Region
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174361
+
+------------------------------------------------------------------------------------------
+21. 
+N: General Assembly of ICOMOS International conclude successfully
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174398
+CATEGORY : FACTS-PRELIMS
+
+ICOMOS ?
+1. A professional association that works for the conservation and protection of cultural heritage places around the world
+2. HQ : Paris
+3. ICOMOS was founded in 1965 in Warsaw as a result of the Venice Charter.
+4. It offers advice to UNESCO on World Heritage Sites (Cultural Criteria) [ The Nomination File is evaluated by the International Council on Monuments and Sites and the World Conservation Union. These bodies then make their recommendations to the World Heritage Committee ]
+------------------------------------------------------------------------------------------
+22.
+N: Nyaya Gram project of the High Court of Allahabad [Foundation Stone ceremony]
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174402
+CATEGORY : FACTS-PRELIMS
+
+- 'Nyay Gram’ is a model township of High Court in Allahabad.
+- The township will include a judicial academy, an auditorium with a seating capacity for 1,500-2,000 people and residences for judges and staff.
+
+DETAILS: http://www.pmawasyojana.co.in/nyaya-gram-project-allahabad-high-court/
+------------------------------------------------------------------------------------------
+23.
+N: Leveraging Technology for Evidence Based Decision Making
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174403
+CATEGORY : FACTS-PRELIMS
+
+- In order to monitor progress on the SDGs, MoSPI and the UN are partnering on the SDG Dashboard for India, which aims to bring together data from various datasets, portals and sectors onto one common platform
+- Chief Statistician of India & Secretary MOSPI, Prof.T.C.A Anant encouraged statisticians to internalise the latest developments in data analytics and apply them to their ongoing work.
+
+------------------------------------------------------------------------------------------
+24. 
+N: State-level earthquake mock exercise in Haryana on 21st December + NDMA to conduct Training of Trainers for Sendai Framework 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174410
+   http://pib.nic.in/newsite/PrintRelease.aspx?relid=174409
+CATEGORY : FACTS-PRELIMS
+
+Seismic Zones of India
+=======================
+https://en.wikipedia.org/wiki/Earthquake_zones_of_India
+1. National Center for Seismology, Ministry of Earth Sciences is nodal agency of Government of India dealing with various activities in the field of seismology and allied disciplines
+
+2. Classification
+--------------
+Zone 5
+------
+- Zone 5 covers the areas with the highest risks zone that suffers earthquakes 
+- It is referred to as the Very High Damage Risk Zone.
+- Generally, the areas having trap rock or basaltic rock are prone to earthquakes.
+- The region of Kashmir, the Western and Central Himalayas, North and Middle Bihar, the North-East Indian region, the Rann of Kutch and the Andaman and Nicobar group of islands fall in this zone.
+
+Zone 4 : This zone is called the High Damage Risk Zone 
+Zone 3 : This zone is classified as Moderate Damage Risk Zone 
+Zone 2 : This zone is classified as the Low Damage Risk Zone
+Zone 1 : Since the current division of India into earthquake hazard zones does not use Zone 1, no area of India is classed as Zone 1.
+
+SFDRR
+=====
+- The Sendai Framework for Disaster Risk Reduction (SFDRR), 2015-2030, is the first major agreement of the post-2015 development agenda and identifies targets and priority actions towards reducing disaster risks and implementing development that is both resilient and sustainable. 
+- India, being a signatory to the SFDRR, is committed to work towards achieving the targets enshrined in the Framework. 
+- India became one of the first countries to align its National Disaster Management Plan (NDMP) with the SFDRR
+------------------------------------------------------------------------------------------
+25. 
+N: India is the second largest producer of horticultural crops and fruits in the World: Shri Radha Mohan Singh 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174412
+CATEGORY : FACTS-PRELIMS / MAINS-ANALYSIS
+
+- After China, India is the second largest producer of horticultural crops and fruits.
+- keeping in view the importance of orchards in maintaining nutrient security, providing employment and conserving the environment, Agriculture Ministry is implementing Mission for Integrated Development of Horticulture across the nation
+------------------------------------------------------------------------------------------
+26. 
+N: The Phasing out ceremony of MI 8 “PRATAP” helicopters held Formal adieu to the Multi-role helicopter fleet of the IAF 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174415
+CATEGORY :FACTS-PRELIMS
+
+- The MI-8 also known as the “PRATAP” phasing out ceremony was today held at the Air Force Station, Yelahanka in Bengaluru
+- The MI-8, PRATAP was inducted in ten operational helicopter units and it operated in several major IAF operations including Operation Meghdoot in the Siachen Glacier and Operation Pawan in Sri Lanka.
+
+------------------------------------------------------------------------------------------
+27. 
+N: PM to visit cyclone ‘Ockhi’ affected areas of Lakshadweep, Tamil Nadu, and Kerala tomorrow
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174426
+CATEGORY :FACTS-PRELIMSs
+
+- National Crisis Management Committee (NCMC) chaired by the Cabinet secretary, Shri P K Sinha met on 04th December and reviewed the relief and rescue operations in States and Union Territories affected by the cyclone
+
+Cyclone Ockhi
+-------------
+1. Unlike the Bay of Bengal, the Arabian Sea rarely generates severe cyclones.
+2. In a study published in the journal Nature Climate Change reported that the Arabian Sea would throw up more number of deadly storms with wind speeds of 165 km/hr or more [They blamed global warming for this]
+3. Two factors have contributed to the increased severity of Arabian Sea cyclones
+ - First, the Arabian Sea surface becomes warmer than the other ocean basins during this period.
+ - Second, and more important, due to the interplay of global warming, climate variability and weather changes, winter monsoon circulation has been weakening over the years.
+
+ Also, they mentioned "After the monsoon season, the vertical shear — changing winds from the surface to the upper atmosphere which tends to remove energy from the cyclone and prevents their strengthening — gets reduced, making cyclone formation more probable"
+
+Why Ockhi?
+Ever wondered why cyclones are given names? The World Meteorological Organisation (WMO) and the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) started the tropical cyclone naming system in 2000.
+
+The name Ockhi was given by Bangladesh which in Bengali means ‘eye’. The previous storm that hit northeastern India was called Mora. Find more on naming cyclones
+
+Mains Question:
+1. Disaster mitigation strategy / disaster preparedness w.r.t  Cyclonic stroms. [ Govt. action plan vis a vis sendai framework  ]
+http://www.unisdr.org/we/coordinate/sendai-framework
+2. What are CBRN emergencies. Best strategy to contain the same? and other questions in Mains analyis
+
+
+REF: http://www.thehindubusinessline.com/economy/agri-business/arabian-sea-to-get-stormier-says-study/article9979485.ece
+http://www.thehindu.com/news/national/tamil-nadu/depression-to-intensify-further-in-tamil-nadu/article21187479.ece
+http://www.firstpost.com/india/cyclone-ockhi-first-tropical-storm-of-the-season-in-arabian-sea-likely-to-intensify-further-4235439.html
+
+Note: Disaster mitigation is often left out in general studies, however, it finds its place in mains now and then. Do basic preparation in this segment.
+
+ 
+------------------------------------------------------------------------------------------
+28. 
+N: Education Status of Scheduled Tribes
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174446
+CATEGORY: FACTS-PRELIMS
+
+A comprehensive overview of the steps taken by govt. to educate STs
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=174446
+
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+TBC: 12/19/2017 3.47 PM

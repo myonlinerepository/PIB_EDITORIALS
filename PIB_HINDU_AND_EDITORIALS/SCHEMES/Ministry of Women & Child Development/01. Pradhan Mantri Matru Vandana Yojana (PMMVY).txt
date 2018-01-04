@@ -1,0 +1,23 @@
+REF: http://www.wcd.nic.in/sites/default/files/PMMVY%20Scheme%20Implemetation%20Guidelines%20._0.pdf
+
+INTRODUCTION 
+------------
+[Centrally Sponsored Scheme, would provide grants-in-aid to the State Governments/ Union Territory Administrations (UTs) - a Conditional Cash Transfer scheme]
+- This Maternity Benefit Programme would be implemented in all the districts of the country in accordance with the provision of the National Food Security Act, 2013
+- Under PMMVY, a cash incentive of ` 5000/- would be provided directly in the account of Pregnant Women and Lactating Mothers(PW&LM) for first living child of the family subject to their fulfilling specific conditions relating to Maternal and Child Health.
+- The eligible beneficiaries would receive the remaining cash incentives as per approved norms towards
+maternity benefit under Janani Suraksha Yojana (JSY) after institutional delivery so that on an average, a
+woman will get ` 6000/- 
+- PMMVY shall be implemented through a centrally deployed Web Based MIS Software application and the focal point of implementation would be the Anganwadi Centre (AWC) and ASHA/ ANM workers
+
+Objectives of PMMVY
+--------------------
+- Providing partial compensation for the wage loss in terms of cash incentives so that the woman can take adequate rest before and after delivery of the first living child.
+- The cash incentive provided would lead to improved health seeking behaviour amongst the Pregnant Women and Lactating Mothers (PW&LM)
+
+Target beneficiaries
+---------------------
+- All Pregnant Women and Lactating Mothers, excluding PW&LM who are in regular employment with the Central Government or the State Governments or PSUs or those who are in receipt of similar benefits under any law for the time being in force
+- All eligible Pregnant Women and Lactating Mothers who have their pregnancy on or after 01.01.2017
+for first child in family.
+- Case of Infant Mortality & Miscarriage/Still Birth: Future installments are applicable only to Miscarriage/Still Birth cases and not applicable to the Case of Infant Mortality.

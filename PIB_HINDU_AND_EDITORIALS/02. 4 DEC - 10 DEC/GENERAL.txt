@@ -291,34 +291,306 @@ N: PM dedicates Dr. Ambedkar International Centre to the Nation
 U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174157
 CATEGORY: FACTS-PRELIMS
 
+1. Steps taken by govt to make our political democratic nation as a social democratic one:
+=>> Jan Dhan Yojana, Ujjwala Yojana, Swachh Bharat Mission, insurance schemes, Pradhan Mantri Awas Yojana, and the recently launched Saubhagya Yojana +
+other schemes including distribution of soil health cards, Mission Indradhanush and progress towards rural electrification targets +  Stand-Up India scheme
 
+2. Dr. Ambedkar International Centre :: a dedicated center for Socio Economic Transformation + important centre for research on social and economic issues + a think-tank for inclusive growth, and related socio-economic matters
+
+
+/***************************************************************************************************************/
+21. 
+N: Provisions of the Financial Resolution and Deposit Insurance Bill, 2017 meant to protect interests of depositors
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174162
+CATEGORY: FACTS-PRELIMS / MAINS-ANALYSIS
+
+“Bail-in” provisions of the FRDI Bill:
+---------------------------------------
+It does not modify the present protections to the depositors adversely and provides additional protections to the depositors in a more transparent manner.
+1. Presently, each depositor of banks can be only protected up to a limit of Rs. 1 lakh by the guarantee of the Deposit Insurance and Credit Guarantee Corporation (DICGC)
+2. Remaining deposits (i.e. beyond Rs. 1 lakh of deposits in a bank) do not have any deposit protection guarantee and are treated, at par with claims of unsecured creditors as of now
+3. Besides providing similar protection / guarantee of Rs. 1 lakh to depositors, as it exists today, the rights of uninsured depositors are being placed at an elevated status in the FRDI Bill compared to the existing legal arrangements over the unsecured creditors and even Government dues
+4. The FRDI Bill is far more depositor friendly than many other jurisdictions, which provide for statutory bail-in, where consent of creditors / depositors is not required for bail-in.
+5. The FRDI Bill does not propose in any way to limit the scope of powers for the Government to extend financing and resolution support to banks, including public sector banks
+6. Government’s implicit guarantee for public sector banks remains unaffected. 
+7. All possible steps and policy measures are taken to prevent the failure of banks and protection of interests of depositors
+8. The FRDI Bill will strengthen the system by adding a comprehensive resolution regime that will help ensure that, in the rare event of failure of a financial service provider, there is a system of quick, orderly and efficient resolution in favour of depositors
 
 
 /***************************************************************************************************************/
 
+22. 
+N: Technology to play a major role in improving ease of living
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174155
+CATEGORY: FACTS-PRELIMS-LOW
 
+1. Smart solutions for cities, such as surveillance systems lead to greatly reduced crime and improved safety of residents particularly women
+2. City wide Wi-Fi networks improve communication among citizens as well that with various service providers.
+3. E-governance and citizen feedback management lead to improved social cohesion by increase in opportunities for citizen engagement, reduction in social inequities, and reduction in response time for services for business
+4. Integrated traffic management will increase the traffic speeds and reduce traffic congestions and hence cleaner air for people to breathe.
+5. Sensor-based technologies that are used for leak detection, automated water supply and quality monitoring will directly impact universal accessibility to quality water, reduction in operating and maintenance costs and reduction of water borne diseases
 
+/***************************************************************************************************************/
+23. 
+N: In response to the media article of 07 Dec 17 by Xinhua News Agency: Chinese airspace violation by Indian UAV around Dhokla area (Sikkim Sector)
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174158
+CATEGORY: FACT-PRELIMS-MAPBASED
 
+What to see ?
+1. All the passes in the Sino-Indian border area.
+2. Mountain ranges & Environmental zones  ( IUCN Protected species if any )
+3. Any Major Geographic landscapes
 
+/***************************************************************************************************************/
+24. 
+N: National Conference on PDS Reforms 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174159
+CATEGORY: MAINS-ANALYSIS
+
+Steps already taken to improve the effeciency of PDS :
+1. automation of Fair Price Shops, 
+2. computerization of Supply Chain Management 
+3. enforcement of other provisions of National Food Security Act 
+
+In this regard, a two-day National Conference on PDS Reforms was held on 4th -5th December, to discuss further about the other important aspects of PDS reforms :
+1. seamless working of the online systems, 
+2. strategy for grievance redressal, 
+3. enhancing the outreach of the system to the deprived segments of the society, 
+4. effective safeguards for non-denial of entitled foodgrains to the beneficiaries and viability of Fair Price shops.
+
+/***************************************************************************************************************/
+
+25. 
+N: Vision of the Government is ‘24x7 Power for All’ – All the States on board to achieve Target by March 2019
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174171
+CATEGORY: FACT-PRELIMS
+
+creating a efficient power sector is important. Why ?
+1. Power is at the core of economic growth of the country. 
+2. Becoming self-sufficient in Power is essential for our strategic autonomy on the global stage
+3. Industrialization and job creation is not possible without affordable and quality power for all
+4. expected economic growth of 8 to 9% in the next 5 years and subsequent new customers would increase power demand manifold.
+5. urther, electricity will edge out other forms of energy in the coming future as it is more efficient and easy to transport
+
+To strengthen the existing system, 
+
+1. The States have arrived at consensus-based roadmap to bring down losses in State Utilities/ DISCOMS to below 15%
+2. In order to decrease the losses of the DISCOMs and make them viable, the Union Government is proposing to do away with human interface in meter reading and billing of consumers for power consumption
+3. it is proposed through an amendment in the electricity act to segregate the carriage from content in the distribution sector (what is carriage from content issue ?)
+4. Renewable energy sector : India has pledged to achieve 175 GW of renewable energy by 2022 and 40% of installed power capacity from renewable energy by 2030 (INDC obligations) + Renewable Purchase Obligations (RPOs) are made mandatory.
+5. Union Government is focusing on hydropower and soon the new hydro power policy will be formulated.
+6. to help the poor power consumers, the government is pushing for Direct Benefit Transfer (DBT) of subsidy in power sector
+7. For giving a push to Make in India and Domestic Industrialization, we have to make quality power affordable for all
+
+/***************************************************************************************************************/
+
+26. 
+N: Ports cargo perfomance review : April-November, 2017
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174172
+CATEGORY: FACT-PRELIMS
+
+1. Nine Major Ports of India  :
+Kolkata (including Haldia), Paradip, Visakhapatnam, Chennai, Cochin, New Mangalore, Mumbai, JNPT and Kandla
+2. Foundation stone of a Rs 970-crore International Ship Repair Facility (ISRF) was laid at Cochin Shipyard Limited, which will make Cochin a global ship repair hub
+3. A world class Center of Excellence in Maritime and Ship Building (CEMS) is also being set up with campuses at Vishakhapatnam and Mumbai
+4. In the recent elections to the IMO Council India secured the second highest number of votes and was re- elected to in Category-B, that is states with the largest interest in international seaborne trade ( IMO made of 40 Member countries )
+
+/***************************************************************************************************************/
+
+27. 
+N: Business leaders commit support of nearly Rs 500 crores for Namami Gange Mission following appeal by Shri Nitin Gadkari 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174178
+CATEGORY: FACT-PRELIMS
+
+1. Captains of Indian trade and industry have committed a support of nearly Rs 500 crores for the development of amenities like ghats, river fronts, crematoria and parks at various places along River Ganga as part of the Namami Gange Mission
+2. Private funding is being sought for projects worth over Rs 2500 crore for development of ghats, crematoria, waterbodies, parks, sanitation facilities, public amenities and river front
+
+/***************************************************************************************************************/
+
+28. 
+N: Two-Days Training Programme for Nominees of CPCSEA Concludes 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174181
+CATEGORY: FACT-PRELIMS
+
+Committee for the Purpose of Control and Supervision of Experiments on Animals (CPCSEA)
+---------------------------------------------------------------------------------------
+1. Ministry ? Ministry of Environment and Forests
+2. CPCSEA is a statutory Committee under Prevention of Cruelty to Animals Act, 1960
+3. There are 1675 establishments/research institutions registered with the CPCSEA, which conduct experiments and research on various small and large animals
+
+/***************************************************************************************************************/
+29. 
+N: Sports Minister Col Rajyavardhan Rathore inaugurates SAICON 2017 in New Delhi 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174170
+CATEGORY: FACT-PRELIMS
+
+1. The First International Conference on Sports Medicine and Sports Sciences SAICON 2017 was inaugurated in NewDelhi
+2. Khelo India Programme : to tap talent at the school and college level
+
+/***************************************************************************************************************/
+30. 
+N: NHRC to observe Human Rights Day on 10th December 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=174164
+CATEGORY: FACT-PRELIMS / MAINS-ANALYSIS
+
+Whats given in this pib ?
+-------------------------
+1.The NHRC, like most of the human rights institutions in the world, is a recommendatory body as per the Protection of Human Rights Act passed by Parliament
+2.Commission's functions :
+  a)looking into the complaints of the human rights violations
+  b)reviewing safeguards provided under the Constitution or any Law
+  c)make recommendations for effective implementation of International Conventions/Covenants
+  d)undertake research and organise seminars
+3.It has made a number of interventions on key issues of human rights like : 
+  a)issues of bonded and child labour, b)prison reforms, c)right to health, d)right to food, e)mental healthcare, f)rights of persons with disability, g)silicosis,  h)illegal clinical drug trials, i)pesticides in food items, j)pricing of drugs, k)corporate-social responsibility, l)manual scavenging and sanitation, m)human rights of women
+
+POLITY-FACTS
+------------
+International Convention on Protection of Human Rights : Paris Principles
+https://en.wikipedia.org/wiki/Paris_Principles
+
+1. The real test of the rights given by any constitution is in their actual implementation The poor, illiterate and the deprived sections of the society must be able to exercise their rights.
+2. The government has established in 2000 an institution, the National Human Rights Commission as a watchdog against the violations of rights
+3. The National Human Rights Commission (NHRC) is composed of (a chairman and four members)
+  a) a former chief justice of the Supreme Court of India, 
+  b) a former/current judge of the Supreme Court, 
+  c) a former/current chief justice of a High Court and 
+  d) two other members who have knowledge and practical experience in matters relating to human rights
+
+In addition to these full-time members, the commission also has four ex-officio members
+- the chairmen of the National Commission for Minorities, 
+- the National Commission for SCs, 
+- the National Commission for STs and 
+- the National Commission for Women
+3.1  The chairman and members are appointed by the president on the recommendations of a six-member committee consisting of : 
+- prime minister as its head, 
+- the Speaker of the Lok Sabha, 
+- the Deputy Chairman of the Rajya Sabha, 
+- leaders of the Opposition in both the Houses of Parliament and 
+- the Central home minister
+3.2 The chairman and members hold office for a term of five years or until they attain the age of 70 years, whichever is earlier (not eligible for further employment under GOI)
+4. The commission’s functions: 
+  a) Inquiry at its own initiative or on a petition presented to it by a victim (Violation of HR)
+  b) Visit to jails to study the condition of the inmates
+  c) Undertaking and promoting research in the field of human rights etc
+5. The commission does not have the power of prosecution
+6. It can merely make recommendations to the government or recommend to the courts to initiate proceedings based on the inquiry that it conducts.
+7. The president can remove the chairman or any member from the office under
+insolvent + engaging in any paid employment outside the duties of his office + infirmity of mind or body + unsound mind (declared by a competent court) + convicted and sentenced to imprisonment for an offence
+
+MAINS-ANALYSIS
+--------------
+1. IS NHRC a Toothless Tiger ?
+2. Amendments to ease the appoinment of member from the pool for available nominees.
+REF: http://www.thehindu.com/news/national/ex-sc-judges-could-soon-be-appointed-nhrc-chiefs/article19824595.ece
+
+/***************************************************************************************************************/
+31. 
+N: President of India visits Andhra University and opens Centre for Defence Studies
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512045
+CATEGORY: MAINS-ANALYSIS
+
+1. opens Centre for Defence Studies
+2. Center will focus on cybersecurity, nanotechnology, radar and communications, corrosion technology, and other technologies that have strategic dimensions
+
+/***************************************************************************************************************/
+32. 
+N: Border Protection Grid to be set up in Border States
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512045
+CATEGORY: FACT-PRELIMS
+
+1. The Indo-Bangladesh Border covers 5 states of India including Assam, Meghalaya, Mizoram, Tripura and West Bengal
+2. Border Issue ? radicalization, illegal migration, and smuggling of cattle, fake Indian currency notes and drugs
+3. Concept of Border Protection Grid was unveiled, It comprise of various elements namely physical barriers, non-physical barriers, surveillance system, Intelligence agencies, State Police, BSF and other State and Central agencies
+
+/***************************************************************************************************************/
+33. 
+N: Public Procurement Portal for MSEs - MSME Sambandh
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512113
+CATEGORY: FACT-PRELIMS
+
+1. A Public Procurement Portal ‘MSME Sambandh’ was launched for MSMEs
+2. The objective of the portal is to monitor the implementation of the Public Procurement from MSEs by Central Public Sector Enterprises
+
+Background:
+The Procurement Policy launched in 2012 mandates the Central Government Departments / CPSUs to procure necessarily from MSEs (overall procurement goal of minimum of 20 per cent of the total annual purchases)
+
+/***************************************************************************************************************/
+34.
+N: International conference on Ground water 
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512110
+CATEGORY: FACT-PRELIMS / MAINS-ANALYSIS
+
+Background: (The conference tries to address these issues)
+1. Ground water utilization has increased manifold in the past decade.
+2. Over exploitation of ground water has started threatening the sustenance of agricultural activities in many key regions posing a grave threat to the food security in future
+3. Moreover, climate change is expected to alter the ground water recharge regimes across the country due to increase in extreme rainfall events
+4. Over exploitation of ground water has also started affecting the ground water quality in many areas from the geogenic source of contaminants such as arsenic.
+
+/***************************************************************************************************************/
+35. 
+N: India now free of ‘infective trachoma’
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512124
+CATEGORY: FACT-PRELIMS
+
+1. Trachoma is a chronic infective disease of the eye and is the leading cause of infective blindness globally
+2. Trachoma is a disease of poor environmental and personal hygiene and inadequate access to water and sanitation
+3. It affects the conjunctiva under the eyelid
+
+/***************************************************************************************************************/
+36. 
+N: ‘Bodhi Parva: BIMSTEC Festival of Buddhist Heritage’
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512155
+CATEGORY: FACT-PRELIMS / MAINS-ANALYSIS
+
+Background : PR events such as ‘Bodhi Parva’ would help immensely in promoting 'Brand BIMSTEC' and would also tap the potential in connecting transnational Buddhist Heritage in BIMSTEC. India is hosting the “Bodhi Parva: BIMSTEC Festival of Buddhist Heritage” from 8 to 10 December as part of celebrations of 20th anniversary of BIMSTEC
+
+1. Event in sync with 'Neighbourhood First' and 'Act East'
+2. focus areas : security, transport and communication, environment and disaster management, tourism, traditional medicine and people-to-people exchanges
+
+Analysis
+--------
+With the backdrop of 20 years of completion of BIMTSEC, Analyze the following :
+1. Neighbourhood first & Act east policy
+2. Role of BIMTSEC in realizing our Act east policy
+3. ASEAN market and RCEP dimensions
+
+/***************************************************************************************************************/
+37. 
+N: Mountaineering Expedition Team to Mount Vinson 
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512153
+CATEGORY: FACT-PRELIMS
+
+1. 'Mission Seven Summits'  : A unique and unprecedented series of mountaineering expeditions by IAF. (scaling highest peaks of six continents)
+2. 
+Name of the Peak    |Place        |Continent    
+--------------------------------------------- 
+Mt Everest          |Nepal        |Asia
+Mt Carstenz Pyramid |Indonesia    |Australia
+Mt Elbrus           |Russia       |Europe
+Mt Kilimanjaro      |South Africa |Africa
+Mt Aconcagua        |Argentina    |South America
+Mt McKinley/Denali  |Alaska       |North America 
+Mount Vinson        |Antartica    |Antartica
+--------------------------------------------- 
+/***************************************************************************************************************/
+38. 
+N: “International Arogya 2017”, the first international conference and exhibition on AYUSH 
+U: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512154
+CATEGORY: FACT-PRELIMS
+
+“International Arogya 2017”, the first international conference and exhibition on AYUSH and wellness systems organized by Ministry of AYUSH, Ministry of Commerce & Industry and Pharmexcil in collaboration with FICCI
+
+held in the backdrop of the National Health Policy 2017 strongly advocating mainstreaming the potential of AYUSH within a pluralistic system of Integrative healthcare
+
+International level standardization of AYUSH products is not an easy task due to its polyherbal and herbo-mineral nature but now is the time this issue needs to be addressed. 
+
+/***************************************************************************************************************/
 TBC:
 http://pib.nic.in/newsite/PrintRelease.aspx?relid=174122
 http://pib.nic.in/newsite/PrintRelease.aspx?relid=174124
 http://pib.nic.in/newsite/PrintRelease.aspx?relid=174115
-
-MAINS ANALYSIS:
-CHINA MES 
-- http://pib.nic.in/newsite/PrintRelease.aspx?relid=148540 [ PIB_ADV: "Market Economy Status"/2010 ]
-- https://www.wto.org/english/tratop_e/adp_e/adp_info_e.htm
-- Addendum that has been refered under article 6 of GATT refers to Antidumping and countervailing duties [https://www.wto.org/english/res_e/booksp_e/gatt_ai_e/art6_e.pdf]
-- http://www.thehindu.com/todays-paper/tp-opinion/fight-for-market-economy-status/article21269976.ece
-
-
-**********************
-FRDI BILL:
-----------
-Bail In clause ?
-Big Picture debade ?
-http://www.thehindu.com/business/Industry/the-frdi-bill-and-concerns-of-the-depositor/article21081902.ece
+http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1512136
 
 
 

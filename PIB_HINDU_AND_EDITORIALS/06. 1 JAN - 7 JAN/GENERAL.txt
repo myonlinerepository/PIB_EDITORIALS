@@ -1,0 +1,276 @@
+FACTS 
+================
+/**************************************************************************************************************************************************************************************************************************************/
+1. Consumer Price Index For Industrial Workers (CPI-IW)
+Ministry ? Ministry of Labour & Employment [REF: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175068]
+
+
+/**************************************************************************************************************************************************************************************************************************************/
+
+1. 
+N: MYA&S awards broadcasting rights of Khelo India school games to star sports
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175075
+CATEGORY: FACTS-PRELIMS
+
+- Khelo India School Games, 2018 is the marquee event under revamped Khelo India porgramme. 
+- Khelo India School Games 2018 are being organized for under-17 group (Boys and Girls) from 31st Jan 2018 in 16 different Sports disciplines
+- The best talent selected through the competition will be amongst the 1000 (one thousand) budding athletes eligible for a scholarship worth 5 lakhs each per year for a period of eight years
+- The format of the game will provide an opportunity for the State/UTs to compete against each other and provide a platform to showcase their best budding sporting talent.
+
+For others, check the SCHEME details.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+2. 
+N: Health Secretary launches the Allied Health Professionals Database Portal 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175093
+CATEGORY: FACTS-PRELIMS
+
+-  The portal has a capacity of capturing more than 10 lakhs Allied and Healthcare Professionals’ data.
+-  It will help the Government to track the number of professionals and streams of allied and healthcare professions in the country.
+-  It may further prove helpful in expediting the envisaged processes viz. licensing of professionals, workforce policy planning, and bringing transparency in the system by maintaining standards of educational and clinical practice etc.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+3. 
+N: online portal ‘NARI’ for women empowerment was launched along with e-samvad
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175087
+   http://pib.nic.in/newsite/PrintRelease.aspx?relid=175111
+CATEGORY: FACTS-PRELIMS
+
+NARI Portal :
+------------
+- Generally, information related to women centric schemes/legislations are all scattered on different websites/portals thereby the awareness about these provisions are not on high level.
+- In order to make this information more easily accessible in one place, the NARI portal summarizes over 350 government schemes and other important information for the benefit of women
+- This portal will provide women citizens with easy access to information on government schemes and initiatives for women 
+- There are tips on good nutrition, suggestions for health check ups, information on major diseases, tips for job search and interview, investment and savings advice, information on crimes and against women and reporting procedures, contacts of legal aid cells, simplified adoption procedures and much more
+
+E-Samvad portal : 
+-----------------
+ - Further to provide a platform for NGOs and Civil Societies to interact with the Ministry of Women & Child Development. 
+ 
+- NGOs and civil society can provide their feedback, suggestions, put up grievances, share best practices etc
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+4. 
+N: Auction for sale of government stocks
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175098
+CATEGORY: FACTS-PRELIMS
+
+QUESTION 1. What is the difference between price based auction and yield based auction (of government securities) ?
+
+ANSWER: 
+Whenever a company (private/public) goes public, the process of IPO has the following sequence:
+-----------------------------------------------------------------------------------------------
+	1. Appoint a merchant banker: In case of a large public issue, the company can appoint more than 1 merchant banker [The job of a merchant banker is to assist the company with various aspects of the IPO process ]
+	2. Apply to SEBI with a registration statement: The registration statement contains details on what the company does, why the company plans to go public and the financial health of the company
+	3. Getting a nod from SEBI:  Once SEBI receives the registration statement, SEBI takes a call on whether to issue a go ahead or a ‘no go’ to the IPO
+	4. DRHP: If the company gets the initial SEBI nod, then the company needs to prepare the DRHP. A DRHP is a document that gets circulated to the public. Along with a lot of information, DRHP should contain the following details [The estimated size of the IPO, The estimated number of shares being offered to public, Business description including the revenue model, expenditure details, Management Discussion, details and Analysis,Risks involved in the business, etc] [DRHP - draft red herring prospectus]
+	5. Market the IPO: TV and print advertisements in order to build awareness 
+	6. Fix the price band: Decide the price band between which the company would like to go public [Max - Min price fixed by company under SEBI regulations for the IPO ]
+	7. Book Building: 
+	 - official opening of the window during which the public can subscribe for shares.
+	 - For example, if the price band is between Rs.100 and Rs.120, then the public can actually choose a price they think is fair enough for the IPO issue.
+	 -The process of collecting all these price points along with the respective quantities is called Book Building. 
+	 - Book building is perceived as an effective price discovery method [price point would be estimated on a weighted average basis]
+	8. Closure:  The price point at which the issue gets listed is decided. This price point is usually that price at which maximum bids have been received.
+	9. Listing Day: This is the day when the company actually gets listed on the stock exchange
+
+	Yield Based Auction: 
+	--------------------
+		1. Just like a company that goes public has to go through point no. 7, when the governemnt auctions its new securities, it has to figure out what is the most anticipated and best yield with which it can issue its security.
+		2. Investors bid in yield terms up to two decimal places (for example, 8.19 per cent, 8.20 per cent, etc.)
+		3. Bids are arranged in ascending order and the cut-off yield is arrived at the yield corresponding to the notified amount of the auction
+		4. successful bidders are those who have bid at or below the cut-off yield. Bids which are higher than the cut-off yield are rejected.
+
+	Price Based Auction:
+	--------------------
+		1. A price based auction is conducted when Government of India re-issues securities issued earlier
+		2. Bidders quote in terms of price per Rs.100 of face value of the security (e.g., Rs.102.00, Rs.101.00, Rs.100.00, Rs.99.00, etc., per Rs.100/-).
+		3. Bids are arranged in descending order and the successful bidders are those who have bid at or above the cut-off price
+		4. Bids which are below the cut-off price are rejected.
+
+QUESTION 2: Name of RBI's Core Banking solution? 
+ANSWER: E-Kuber. Core banking functions will include transaction accounts, loans, mortgages and payments. Banks make these services available across multiple channels like automated teller machines, Internet banking, mobile banking and branches.
+		
+		
+REF: https://m.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=711
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+5. 
+N: Defence Ministry clears two procurement proposals 
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175099
+CATEGORY: FACTS-PRELIMS
+
+Barak Missiles ?
+- Surface to Air Missiles. [SAMs]
+- Airborne threat including aircraft, helicopters, anti-ship missiles, and UAVs as well as ballistic missiles, cruise missiles and combat jets.Both maritime and land-based versions of the system exist. 
+- The one cleared was the sea variant [a ship-borne anti-missile defence system against anti-ship missiles.]
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+6. 
+N: Availability of Urea in 45 Kg bags instead of 50 Kg bags may bring down consumption of Urea by 10% : AGRO Ministry
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175108
+CATEGORY: FACTS-PRELIMS
+
+In a reply to a question on innovative solutions taken by the Government to cut urea consumption, in Lok Sabha today:
+Objective ? To encourage balanced use of fertilizers
+Steps taken? 
+- Made it mandatory for all the domestic producers of urea to produce 100% as Neem Coated Urea [both indigenously produced urea and imported urea ]
+- introduction of 45 Kg bag of urea in place of existing 50 Kg bags [Since farmers use urea interms of number of bags instead of the actual quantity] - thereby bringing down consumption by 10%.
+
+=> This is gonna further help the government to reduce its revenue expenditure in terms of subsidies and can invest more on capex.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+7. 
+N: King & Queesn of Lesotho calls on President
+U: http://pib.nic.in/newsite/PrintRelease.aspx?relid=175109
+CATEGORY : FACTS-PRELIMS
+
+Kingdom of Lesotho
+-------------------
+1. It is an enclaved country [just like San Marino within Italy, Vatican City within the city of Rome, Italy ] within south africa.
+2. Swaziland that is also like Lesotho [partial enclave within south africa] shares borders with Mozambique.
+
+Also Note: 
+-----------
+A true enclave is the one that cannot be reached without passing through the territory of a single other state that surrounds it. 
+A historical example was West Berlin before the reunification of Germany. Since 1945, all of Berlin was ruled de jure by the four Allied powers.
+However, the East German government and the Soviet Union treated East Berlin as an integral part of East Germany, so West Berlin was a de facto enclave within East Germany. 
+Also, 12 small West Berlin enclaves, such as Steinstücken, were separated from the city, some by only a few meters
+
+ 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+8. 
+N: S.N. Bose's 125th birth anniversary
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514840
+   http://www.thehindu.com/sci-tech/science/what-are-bosons-and-how-did-they-get-their-name/article22343300.ece
+CATEGORY: FACTS-PRELIMS
+
+About S.N.Bose's Work:
+----------------------
+The most regarded work of S.N. Bose is Bose Statistics, Bose Einstein Condensation and Higgs Boson.
+
+Boson Group in Standard Model of Physics
+-----------------------------------------
+- The standard model of physics gives us details about how the basic particles interact with each other at the sub-atomic level guided by 4 fundamental forces.
+- Three of the fundamental forces result from the exchange of force-carrier particles [Field quanta], which belong to a broader group called “bosons”
+- Particles of matter transfer discrete amounts of energy by exchanging bosons with each other.
+- Each fundamental force has its own corresponding boson – 
+	= the strong force is carried by the “gluon”
+	= the electromagnetic force is carried by the “photon”
+	= the “W and Z bosons” are responsible for the weak force
+	= although not yet found, the “graviton” should be the corresponding force-carrying particle of gravity
+    = Higgs boson, recently discovered, is the particle that gives matter its mass.
+
+
+What is Genomics?
+Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+9. 
+N: Steps taken by govt on improving quality of education and research in Higher Education Institutions
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514863
+CATEGORY: FACTS-PRELIMS / QUESTION-HOUR [LOKSABHA]
+
+Various Schemes
+---------------
+1.0 Uchhatar Avishkar Yojana (UAY):
+------------------------------------
+- The objectives of UAY scheme are to promote innovation in IITs addressing issues of manufacturing industries
+- To spur innovative mindset; to co-ordinate action between academia & industry and to strengthen labs & research facilities
+
+1.1 Impacting Research, Innovation and Technology (IMPRINT):
+-----------------------------------------------------------
+- The objectives of this initiative is to identify areas of immediate relevance to society requiring innovation, direct scientific research into identified areas, ensure higher funding support for research into these areas and measure outcomes of the research effort with reference to impact on the standard of living in the rural/urban areas
+- Funding pattern: 50% by MHRD and 50% by other Ministries/departments
+
+1.2 Quality Improvement Programme (QIP):
+----------------------------------------
+- To upgrade the expertise and capabilities of the faculty members of the degree and diploma level institutions in the country.
+
+1.3 Margdarshan:
+----------------
+- Institutions of repute as a mentor within an existing facility to serve as the hub to guide and disperse knowledge to and between technical institutions to encourage best practices.
+
+1.4 SWAYAM:
+------------
+- An indigenous On-line Education platform has been launched
+- Through this platform courses in teachers training and other subjects both at the graduate and post-graduate level are offered.
+- Access to SWAYAM is also being widened by linkage with DTH channel, SWAYAMPRABHA, dedicated to education.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+10. 
+N: Steps Taken for reducing Financial Load on Poor Diabetic Patients
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514951
+CATEGORY: FACTS-PRELIMS / QUESTION-HOUR [RAJYASABHA]
+
+- [Public health and hospitals]-> Is a State Subject. So, the primary responsibility of providing accessible, affordable and quality healthcare lies with the respective State Governments
+- Under National Health Mission, to reduce out of pocket expenditure on healthcare, assisstance is provided to the states/UTs to strengthen their healthcare infra based on their proposed programme implimentation plan.
+- GoI is implementing 
+	1. National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke under National Health Mission.
+	   Programme Objectives? Focus area are awareness generation, providing diagnosis and treatment facilities.
+	2. Under PMSSY, 6 new AIIMS have been set up and upgradation of medical colleges have been taken up, which will provide effective remidies for Non-communicable Diseases including Diabetes.
+	3. Under "Jan Aushadhi Scheme" ,generic medicines are being made available at affordable prices to all
+    4. AMRIT (Affordable Medicines and Reliable Implants for Treatment) stores were also started by the Ministry of Health and Family Welfare where essential life-saving medicines are being provided at a substantial discount vis-à-vis the Maximum Retail Price
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+11. 
+N: Improving facilities in govt. hospitals
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514956
+CATEGORY: FACTS-PRELIMS / QUESTION-HOUR [RAJYASABHA]
+
+What is Kayakalp initiative?
+Kayakalp- initiative has been launched to promote cleanliness, hygiene and infection control practices in public health facilities. Under this initiative public healthcare facilities are appraised and such public healthcare facilities that show exemplary performance meeting standards of protocols of cleanliness, hygiene and infection control receives awards and commendation.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+12.
+N: Reducing MMR
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514961
+CATEGORY: FACTS-PRELIMS / QUESTION-HOUR [RAJYASABHA]
+
+In what proportion is MMR calculated? Maternal Mortality ratio(MMR) of India is 167 per 100,000 live births [mostly, other mortality/health parameters are calculated per 1000]
+
+key steps taken:
+----------------
+1. Promotion of institutional deliveries through Janani Suraksha Yojana.
+2. Janani Shishu Suraksha Karyakaram (JSSK): entitles all pregnant women delivering in public health institutions to absolutely free and no expense delivery including Caesarean section [ free drugs, diagnostics, blood and diet, besides free transport from home to institution, between facilities]
+[ Similar entitlements have been put in place for ante-natal and post–natal complications during pregnancy and all sick infants accessing public health institutions for treatment.]
+3. The Pradhan Mantri Surakshit Matritva Abhiyan: to provide fixed-day assured, comprehensive and quality antenatal care universally to all pregnant women on the 9th of every month
+4. Universal screening of pregnant women for anaemia is a part of ante-natal care and all pregnant women are provided iron and folic acid tablets during their ante-natal visits
+5. Capacity building of MBBS doctors & Skilled Birth Attendant
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+13
+N: Warning labels on fastfood made compulsory
+U: http://pib.nic.in/PressReleseDetail.aspx?PRID=1514962
+CATEGORY: FACTS-PRELIMS / QUESTION-HOUR [RAJYASABHA]
+
+Background:
+1. Fast Food has not been separately defined under the Food Safety and Standards Act, 2006
+2. to address the issue of High Fat, Sugar and Salt (HFSS) in food and associated health risks, Food Safety and Standards Authority of India (FSSAI) constituted an Expert Group [Recommendations uploaded in fssai website]
+
+Steps taken to help consumers make an informed choice ?
+FSSAI  has  decided to revise its labelling regulations to include mandatory declaration of total fat, added sugar, salt, trans fat and energy per serving along with its contribution to Recommended Dietary Allowance (RDA) on front of pack label.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+14. 
+
+
+
+
+
+
+
+
+
+
+
