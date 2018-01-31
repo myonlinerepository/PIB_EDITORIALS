@@ -1,0 +1,8 @@
+
+
+FROM PG 37
+----------
+1. Tension between Right to life & personal liberty vs Preventive detention. What could be the effective safeguards against the state's excess ? 
+
+2. Relationship between F.R and D.P.S.P ? differences? whole story? [pg.45]]
+
